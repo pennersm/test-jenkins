@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="jaja" default="info">
+	<target name="info">
+		<echo> ach jooo ...</echo>
+	</target>
+</project>
+
